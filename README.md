@@ -1,3 +1,4 @@
+<!--
 # EDS 220 - Assignment 2, tasks 2 and 3
 
 This repository contains materials for the second assignment for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
@@ -34,3 +35,4 @@ Please [review the rubric for these tasks](https://docs.google.com/document/d/1x
 If you have any questions, please reach out to the TA or instructor by 5 pm on the day before the assignment is due.
 
 Happy coding!
+-->
